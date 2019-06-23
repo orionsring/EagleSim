@@ -1,2 +1,4 @@
-# EagleSim
-Printed Circuit Board Files. Upload to a PCB Mill. Ready to print on FR2 boards.
+# AutoDesk EagleSim
+This circuit is a completed senior design project with no patent.
+This circuit is to build an Electronic Power Meter. Used to measure power consumpion on electronic devices. Practically a DYI. Do It Yourself!
+
